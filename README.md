@@ -7,7 +7,7 @@ To add changes:
 
 2. Click edit
 
-3. Paste your code into box
+3. Replace the old code with your code
 
 4. Enter a description at the bottom of the page
 
